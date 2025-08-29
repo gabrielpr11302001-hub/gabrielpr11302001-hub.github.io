@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+     color: aquamarine;
+     background-color: purple;
+}
+
+#span-1 {
+    color: aqua;
+    background-color:black
+}
+
+#span-2 {
+    color: azure;
+    background-color:blue
+}
+
+#second-paragraph {
+    color:lemonchiffon;
+    background-color: maroon;
+}
+
+#span-3 {
+    color: gold;
+    background-color:navy
+}
+
+#span-4 {
+    color: skyblue;
+    background-color: yellow;
+}
+
+#third-paragraph {
+    color:azure;
+    background-color: skyblue;
+}
+
+#span-5 {
+    background-color: coral;
+    color:turquoise
+}
+
+#span-6 {
+    background-color: gray;
+    color:mistyrose
+}
