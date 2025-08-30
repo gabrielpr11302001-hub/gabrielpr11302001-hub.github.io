@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1 {
+    font-weight: bold;
+}
+
+#span-2{
+    font-style:italic;
+}
+
+#big-paragraph {
+    line-height:16px;
+    /* font-size: 16px;
+    letter-spacing: 3px; */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*This is how you change the size of a single letter */
+
+#big-letter {
+    font-size: 60px;
+}
+#ff-1 {
+    font-family: serif;
+}
+
+#ff-2 {
+    font-family: sans-serif;
+}
+
+#ff-3 {
+    font-family: monospace;
+}
+
+#ff-4 {
+    font-family: cursive;
+}
+
+#ff-5 {
+    font-family: fantasy;
+}
