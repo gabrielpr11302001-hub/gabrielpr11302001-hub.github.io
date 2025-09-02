@@ -68,7 +68,20 @@ body {
 
 #span-14 {
     font-weight:bold;
-    text-align:center
+    text-align: center;
+    font-size: 12px;
+}
+
+#span-15 {
+    font-size: 48px;
+    text-align: center;
+    
+}
+
+#span-16 {
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
 }
 
 
