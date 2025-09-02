@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-trial {
+     color: green;
+     }
+
+#span-1 {
+    color: #F711F7;
+}
+
+#span-2 {
+    color: #F711F7;
+}
+
+#span-3 {
+    color: red;
+}
+
+#span-4 {
+    color: goldenrod;
+}
+
+#span-5 {
+    color: blue;
+}
+
+#fourth-trial {
+    background-color: skyblue;
+}
+
+#span-6 {
+    background-color: yellow;
+}
+
+#span-7 {
+    font-weight: bold;
+}
+
+#span-8 {
+    font-weight: bold;
+}
+
+#span-9 {
+    font-style: italic;
+}
+
+#span-10 {
+    font-weight: bold
+}
+#span-11 {
+    text-decoration: underline;
+}
+
+#span-12 {
+    text-decoration: underline;
+}
+
+#span-13 {
+    font-size:36px
+}
+
+#span-14 {
+    font-weight:bold;
+    text-align:center
+}
+
+
