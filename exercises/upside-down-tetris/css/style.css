@@ -14,7 +14,7 @@ body {
     background color: #0000;
     font-size: 0px;
     margin: 0px;
-    padding: 0px;
+    padding: px;
     
 }
 
@@ -28,24 +28,28 @@ body {
 
 .red {
     background-color: red;
-    border: outset 5px; rgb:(red);
+    border: outset 5px; 
+    rgb:(red);
     border-width: 10px;
 }
 
 .blue {
     background-color: blue;
-    border: outset 5px; rgb:(blue);
+    border: outset 5px; 
+    rgb:(blue);
     border-width:10px;
 }
 
 .yellow {
     background-color:yellow;
-    border: outset 5px; rgb:(yellow);
+    border: outset 5px; 
+    rgb:(yellow);
     border-width:10px;
 }
 
 .green {
     background-color: green;
-    border: outset 5px; rgb:(green);
+    border: outset 5px;
+    rgb:(green);
     border-width: 10px;
 }
