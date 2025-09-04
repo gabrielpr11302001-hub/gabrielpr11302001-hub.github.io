@@ -29,27 +29,23 @@ body {
 .red {
     background-color: red;
     border: outset 5px; 
-    rgb:(red);
     border-width: 10px;
 }
 
 .blue {
     background-color: blue;
     border: outset 5px; 
-    rgb:(blue);
-    border-width:10px;
+    border-width: 10px;
 }
 
 .yellow {
     background-color:yellow;
     border: outset 5px; 
-    rgb:(yellow);
-    border-width:10px;
+    border-width: 10px;
 }
 
 .green {
     background-color: green;
     border: outset 5px;
-    rgb:(green);
     border-width: 10px;
 }
