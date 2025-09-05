@@ -44,12 +44,14 @@ vertical-align: top;
     background-color: limegreen;
 }
 
-.post-it image {
-    background-color: rgb(255, 255, 255);
+.image {
+    background-color: rgb(235, 235, 235);
     display: inline-block;
     width: 200px;
     margin: 24px;
     padding: 24px;
     height: 200px;
     vertical-align: top;
+    box-shadow: 5px 5px 7px rgb(54, 54, 54);
 }
+
