@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 24px;
+    padding: 24px;
+    padding-bottom: 100px;
+
+    border:10px solid lightgreen;
+    border-radius: 70px;
+
+    background-color: skyblue;
+}
+
+h1 {
+    border-bottom:2px solid black;
+    padding-bottom: 8px;
+}
