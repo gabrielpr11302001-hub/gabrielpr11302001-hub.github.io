@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: lightblue; */
+}
+
+.light-outer-container {
+    background-color: lightgreen;
+    padding: 48px 24px;
+}
+.dark-outer-container {
+    background-color: #013D01;
+    padding: 48px 24px;
+    color:white;
+}
+
+h2 {
+    font-family:"ibm plex mono", monospace;
+    font-weight: 100;
+    font-style: italic;
+}
+
+p {
+    font-family:tiny5, sans-serif;
+}
