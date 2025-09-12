@@ -17,6 +17,8 @@ body {
 .light-outer-container {
     background-color: white;
     padding: 48px 24px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .dark-outer-container {
     background-color: black;
@@ -27,7 +29,10 @@ body {
 }
 .grey-outer-container {
     background-color: #31312f;
-    color:#fcfcfc
+    color:#fcfcfc;
+    padding: 48px 24px;
+    margin-left:auto;
+    margin-right: auto;
 }
 h1 {
     font-family: "turret road";
