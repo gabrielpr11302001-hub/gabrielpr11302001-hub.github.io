@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.center-column {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section {
+    padding:40px 0px;
+}
+
+.button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #6b6b69;
+    color: #fcfcfc;
+    border-radius: 11px;
+    padding:20px;
+    font-size:25px;
+    font-weight:bold;
+    margin-bottom:25px;
+}
+.button-small {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 11px;
+    padding:10px;
+    font-size:20px;
+    font-weight:bold;
+    margin-bottom:30px;
+    margin-top: 10px
+}
