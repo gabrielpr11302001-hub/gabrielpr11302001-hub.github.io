@@ -17,6 +17,9 @@ body {
     padding:40px 0px;
 }
 
+.section img {
+    size: 1000px;
+}
 .button {
     display: inline-block;
     text-decoration: none;
