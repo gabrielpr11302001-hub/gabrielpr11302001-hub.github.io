@@ -5,39 +5,88 @@
 body {
     margin: 0px;
     font-family: sans-serif;
-    font-size: 25px;
 }
 
-.center-column {
+.single-column {
     max-width: 500px;
     margin-left: auto;
     margin-right: auto;
-}
-.section {
-    padding:40px 0px;
+    
 }
 
-.section img {
-    size: 1000px;
+.light-outer-container {
+    background-color: white;
+    padding: 48px 24px;
 }
-.button {
+.dark-outer-container {
+    background-color: black;
+    padding: 48px 24px;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grey-outer-container {
+    background-color: #31312f;
+    color:#fcfcfc
+}
+h1 {
+    font-family: "turret road";
+}
+h2 {
+    font-family:"noto serif display"; 
+    font-weight: 350;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    font-family:"outfit", sans-serif;
+}
+
+.button-black {
     display: inline-block;
     text-decoration: none;
-    background-color: #6b6b69;
-    color: #fcfcfc;
-    border-radius: 11px;
-    padding:20px;
-    font-size:25px;
-    font-weight:bold;
-    margin-bottom:25px;
-}
-.button-small {
-    display: inline-block;
-    text-decoration: none;
-    border-radius: 11px;
-    padding:10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    padding:15px;
     font-size:20px;
     font-weight:bold;
-    margin-bottom:30px;
-    margin-top: 10px
+    margin-bottom:25px;
+    font-family:"turret road"
+    
+
+}
+.button-white {
+    display: inline-block;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid;
+    padding:15px;
+    font-size:20px;
+    font-weight:bold;
+    margin-bottom:2px;
+    font-family: "turret road";
+    
+
+}
+
+
+.button-gray {
+    display: inline-block;
+    text-decoration: none;
+    background-color: 31312;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid;
+    padding:15px;
+    font-size:20px;
+    font-weight:bold;
+    margin-bottom:2px;
+    font-family: "turret road";
+    
+
 }
