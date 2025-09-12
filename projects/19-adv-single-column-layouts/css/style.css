@@ -35,7 +35,8 @@ h1 {
 h2 {
     font-family:"noto serif display"; 
     font-weight: 350;
-    font-style: italic; 
+    font-style: italic;
+    text-decoration: underline;
 }
 
 p {
@@ -77,7 +78,7 @@ p {
 .button-gray {
     display: inline-block;
     text-decoration: none;
-    background-color: 31312f;
+    background-color: 31312;
     color: white;
     border-radius: 10px;
     border: 1px solid;
