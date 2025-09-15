@@ -74,7 +74,7 @@ p {
     background-color: black;
     color: white;
     border-radius: 10px;
-    border: 1px solid;
+    border: 1px solid goldenrod;
     padding:15px;
     font-size:20px;
     font-weight:bold;
@@ -90,7 +90,7 @@ p {
     background-color: white;
     color: black;
     border-radius: 10px;
-    border: 1px solid;
+    border: 1px solid goldenrod;
     padding:15px;
     font-size:20px;
     font-weight:bold;
@@ -108,7 +108,7 @@ p {
     background-color: 31312;
     color: white;
     border-radius: 10px;
-    border: 1px solid;
+    border: 1px solid goldenrod;
     padding:15px;
     font-size:20px;
     font-weight:bold;
