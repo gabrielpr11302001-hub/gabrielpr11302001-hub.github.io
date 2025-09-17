@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar {
+    background-color: rgb(56, 99, 241);
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    text-decoration: none;
+}
+
+#navbar a {
+    font-family:"Dosis";
+    font-size: 21px;
+    color: rgb(255,255,255);
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+#navbar #logo {
+    font-family: "Square Peg";
+    color: transparent;
+    background-clip: text;
+   background-image: linear-gradient(
+    to left,
+    rgb(109, 140, 241),
+    rgb(236, 215, 95)
+
+   );
+    font-weight: bolder;
+    margin-right: auto;
+    font-size: 50px;
+}
+
+#navbar .cta-button {
+    background-image: linear-gradient(
+    to left,
+    rgb(109, 140, 241),
+    rgb(236, 215, 95)
+    );
+    border-radius: 45px;
+    text-decoration: none;
+    padding: 15px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#single-column {
+    padding: 30px;
+    text-align: center;
+}
