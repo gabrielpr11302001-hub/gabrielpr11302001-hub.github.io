@@ -91,7 +91,20 @@ font-size: 15px;
 
 #price span span {
  font-weight: bolder;
- font-size: 18px;
+ font-size: 15px;
+}
+
+#price a {
+ text-decoration: underline;
+ font-weight: lighter;
+ font-size: 15px;
+ color: black;
+}
+
+#price a:hover {
+transition: .1s;
+color: gray;
+opacity: 80%;
 }
 
 
@@ -114,7 +127,7 @@ font-size: 15px;
     padding: 15px 13px;
     text-align: center;
     margin-top: 20px;
-    transition: .3s;
+    transition: .1s;
 
 
 }
@@ -123,17 +136,17 @@ font-size: 15px;
     color: white;
     background-color: #0968F6;
     font-weight: bolder;
-    transition:.3s;
+    transition:.1s;
 }
 
 .blue-button:hover {
     background-color: gray;
     opacity: 90%;
-    transition: .2s;
+    transition: .1s;
 }
 
-.white-button:hover {
-    background-color: gray;
-    opacity: 100%;
-    transition: .3s;
+#button .white-button:hover {
+    background-color: rgb(236, 233, 233);
+    opacity: 90%;
+    transition: .1s;
 }
