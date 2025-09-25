@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#centered-hero {
+    background-image: url("../images/stars-on-velvet.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+#centered-hero .hero-content {
+color: white;
+text-align: center;
+}
+
+
+.hero-content h1 {
+font-size:72px;
+}
+
+.hero-content h3 {
+font-size: 36px;
+}
+
+#side-hero {
+background-image: url("../images/lonely-ocean.jpg");
+background-size: cover;
+background-position: center center;
+height:100vh;
+display: flex;
+justify-content: flex-end;
+align-items:center;
+padding: 12%;
+}
