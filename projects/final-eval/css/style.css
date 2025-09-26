@@ -17,10 +17,10 @@ body {
 }
 
 #header h4 {
-font-size: 17px;
-font-weight: light;
-color: whitesmoke;
-font-family:"josefin sans"
+    font-size: 17px;
+    font-weight: light;
+    color: whitesmoke;
+    font-family: "josefin sans"
 }
 
 #header h1 {
@@ -32,23 +32,23 @@ font-family:"josefin sans"
 }
 
 #header h3 {
-color: whitesmoke;
-font-weight: lighter;
-font-size: 30px;
-font-family:"new amsterdam";
+    color: whitesmoke;
+    font-weight: lighter;
+    font-size: 30px;
+    font-family:"new amsterdam";
 }
 
 #teams-chiefs {
-justify-content: center;
-display: flex;
-align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
 
 }
 
 #teams-chiefs img {
-width: 250px;
-justify-items: center;
-align-items: center;
+    width: 250px;
+    justify-items: center;
+    align-items: center;
   
 }
 
@@ -59,44 +59,44 @@ align-items: center;
 }
 
 #teams-ravens img {
-width: 250px;
+    width: 250px;
 
 }
 
 #teams-chiefs h3 {
-   color:rgb(247, 53, 53);
-   border: white;
-   text-shadow: 0px 5px 10px white;
-   font-size: 40px;
-   font-family: "bebas neue";
+    color: rgb(247, 53, 53);
+    border: white;
+    text-shadow: 0px 5px 10px white;
+    font-size: 40px;
+    font-family: "bebas neue";
 
 }
 
 #teams-ravens h3 span {
     color: purple;
-    font-family:"bebas neue";
+    font-family: "bebas neue";
     font-size: 40px;
     text-shadow: 0px 5px 10px white;
 }
 
 #Versus {
-    color:rgb(255, 246, 122);
-    font-family:"bebas neue";
+    color: rgb(255, 246, 122);
+    font-family: "bebas neue";
     font-size: 35px;
     text-align: center;
     justify-content: center;
 }
 
 #details {
-    font-family:"josefin sans";
+    font-family: "josefin sans";
     justify-content: center;
     text-align: center;
 }
 
 #details h3 {
-color: whitesmoke;
-text-shadow: 0px 0px 0px;
-font-size: 18px;
+    color: whitesmoke;
+    text-shadow: 0px 0px 0px;
+    font-size: 18px;
 }
 
 #details h4 {
@@ -105,10 +105,10 @@ font-size: 18px;
 }
 
 #details h2 {
- color:rgb(255, 246, 122);
- text-decoration: underline;
- font-size: 37px;
- font-family:"bebas neue"
+    color: rgb(255, 246, 122);
+    text-decoration: underline;
+    font-size: 37px;
+    font-family: "bebas neue"
 }
 
 #details a {
@@ -120,12 +120,12 @@ font-size: 18px;
     color: gold;
     text-shadow: 0px 0px ;
     text-decoration: underline;
-    font-family:"bebas neue";
-    font-size:40px;
+    font-family: "bebas neue";
+    font-size: 40px;
 }
 #details .buttons {
-    display:inline-block;
-    color:black;
+    display: inline-block;
+    color: black;
     background-color: rgb(255, 246, 122);
     border-radius: 35px;
     padding: 25px;
@@ -138,8 +138,8 @@ font-size: 18px;
 }
 
 #questions {
-color:whitesmoke;
-font-size:17px;
+    color: whitesmoke;
+    font-size: 17px;
 }
 
 #details .buttons:hover {
