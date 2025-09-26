@@ -1,149 +1,149 @@
 * {
-    box-sizing: border-box;
+box-sizing: border-box;
 }
 
 body {
-    margin: 0px;
-    font-family: sans-serif;
-    background-color: rgb(33, 136, 77);
-    border: ridge 10px rgb(146, 84, 34);
+margin: 0px;
+font-family: sans-serif;
+background-color: rgb(33, 136, 77);
+border: ridge 10px rgb(146, 84, 34);
 }
 
 #single-column {
-    text-align: center;
-    justify-content: center;
-    justify-items: center;
-    border: ridge 10px rgb(255, 246, 122);
+text-align: center;
+justify-content: center;
+justify-items: center;
+border: ridge 10px rgb(255, 246, 122);
 }
 
 #header h4 {
-    font-size: 17px;
-    font-weight: light;
-    color: whitesmoke;
-    font-family: "josefin sans"
+font-size: 17px;
+font-weight: light;
+color: whitesmoke;
+font-family: "josefin sans"
 }
 
 #header h1 {
-    font-size: 60px;
-    color: rgb(110, 210, 243);
-    text-decoration: underline;
-    text-shadow: 0px 5px 10px;
-    font-family: "new amsterdam";
+font-size: 60px;
+color: rgb(110, 210, 243);
+text-decoration: underline;
+text-shadow: 0px 5px 10px;
+font-family: "new amsterdam";
 }
 
 #header h3 {
-    color: whitesmoke;
-    font-weight: lighter;
-    font-size: 30px;
-    font-family:"new amsterdam";
+color: whitesmoke;
+font-weight: lighter;
+font-size: 30px;
+font-family:"new amsterdam";
 }
 
 #teams-chiefs {
-    justify-content: center;
-    display: flex;
-    align-items: center;
+justify-content: center;
+display: flex;
+align-items: center;
 
 }
 
 #teams-chiefs img {
-    width: 250px;
-    justify-items: center;
-    align-items: center;
+width: 250px;
+justify-items: center;
+align-items: center;
   
 }
 
 #teams-ravens {
-    justify-content: center;
-    align-items: center;
-    display: flex;
+justify-content: center;
+align-items: center;
+display: flex;
 }
 
 #teams-ravens img {
-    width: 250px;
+width: 250px;
 
 }
 
 #teams-chiefs h3 {
-    color: rgb(247, 53, 53);
-    border: white;
-    text-shadow: 0px 5px 10px white;
-    font-size: 40px;
-    font-family: "bebas neue";
+color: rgb(247, 53, 53);
+border: white;
+text-shadow: 0px 5px 10px white;
+font-size: 40px;
+font-family: "bebas neue";
 
 }
 
 #teams-ravens h3 span {
-    color: purple;
-    font-family: "bebas neue";
-    font-size: 40px;
-    text-shadow: 0px 5px 10px white;
+color: purple;
+font-family: "bebas neue";
+font-size: 40px;
+text-shadow: 0px 5px 10px white;
 }
 
 #Versus {
-    color: rgb(255, 246, 122);
-    font-family: "bebas neue";
-    font-size: 35px;
-    text-align: center;
-    justify-content: center;
+color: rgb(255, 246, 122);
+font-family: "bebas neue";
+font-size: 35px;
+text-align: center;
+justify-content: center;
 }
 
 #details {
-    font-family: "josefin sans";
-    justify-content: center;
-    text-align: center;
+font-family: "josefin sans";
+justify-content: center;
+text-align: center;
 }
 
 #details h3 {
-    color: whitesmoke;
-    text-shadow: 0px 0px 0px;
-    font-size: 18px;
+color: whitesmoke;
+text-shadow: 0px 0px 0px;
+font-size: 18px;
 }
 
 #details h4 {
-    color: whitesmoke;
-    font-size: 20px;
+color: whitesmoke;
+font-size: 20px;
 }
 
 #details h2 {
-    color: rgb(255, 246, 122);
-    text-decoration: underline;
-    font-size: 37px;
-    font-family: "bebas neue"
+color: rgb(255, 246, 122);
+text-decoration: underline;
+font-size: 37px;
+font-family: "bebas neue"
 }
 
 #details a {
-    font-weight: bold;
-    font-size: 15px;
+font-weight: bold;
+font-size: 15px;
 }
 
 #details h3 span {
-    color: gold;
-    text-shadow: 0px 0px ;
-    text-decoration: underline;
-    font-family: "bebas neue";
-    font-size: 40px;
+color: gold;
+text-shadow: 0px 0px ;
+text-decoration: underline;
+font-family: "bebas neue";
+font-size: 40px;
 }
 #details .buttons {
-    display: inline-block;
-    color: black;
-    background-color: rgb(255, 246, 122);
-    border-radius: 35px;
-    padding: 25px;
-    text-decoration: none;
+display: inline-block;
+color: black;
+background-color: rgb(255, 246, 122);
+border-radius: 35px;
+padding: 25px;
+text-decoration: none;
 }
 
 #questions span {
-    margin-bottom: 24px;
-    color: rgb(255, 246, 122);
+margin-bottom: 24px;
+color: rgb(255, 246, 122);
 }
 
 #questions {
-    color: whitesmoke;
-    font-size: 17px;
+color: whitesmoke;
+font-size: 17px;
 }
 
 #details .buttons:hover {
-    transition: .1s;
-    color: rgb(255, 246, 122);
-    background-color: black;
+transition: .1s;
+color: rgb(255, 246, 122);
+background-color: black;
 }
