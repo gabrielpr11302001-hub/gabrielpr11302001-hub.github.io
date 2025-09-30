@@ -6,13 +6,28 @@ body {
     margin: 0px;
     font-family: sans-serif;
     background-color: black;
+    font-family:"PP Neue Montreal";
 }
+
+#hero h1 {
+    font-family:"Inter";
+    font-style: italic;
+}
+
 
 #navbar {
     background-color: #e4010100;
     display: flex;
     justify-content: right;
 }
+
+#navbar span {
+font-family: "inter";
+font-style: italic;
+font-weight: bolder;
+align-items: ;
+}
+
 
 #navbar a {
     padding:13px;
@@ -68,15 +83,22 @@ body {
 .gallery {
 margin: 100px auto;
 display: flex;
-gap: 80px 40px;
-flex-wrap: wrap;
-max-width: 1000px;
+ display: grid;
+ grid-template-columns: 3fr 3fr 3fr;
+gap: 35px;
+flex-direction: column;
 }
 
+.title-gallery {
+color: white;
+font-size:30px;
+font-family:"inter";
+}
 .gallery img {
-margin-bottom: 24px;
 width: 100%;
-height: 400px;
+height:500px;
+margin-bottom: 30px;
+width: 100%;
 flex: 1;
 object-fit: cover;
 }
@@ -85,16 +107,20 @@ object-fit: cover;
 justify-content: center;
 display: flex;
 padding: 13px;
-display: flex;
 margin: center;
 text-decoration: none;
 }
 
 .card-container {
     color: white;
-    padding: 30px;
+    padding: 25px;
     max-width: 295px;
-    margin: 30px;
+    margin: 25px;
+    background-color: rgb(75, 73, 73, 0.945);
+    border-radius: 30px;
+    opacity:90%;
+    transition:.2s;
+    
 }
 
 .cards a {
